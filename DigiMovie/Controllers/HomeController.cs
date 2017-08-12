@@ -9,9 +9,12 @@ using System.Net;
 namespace DigiMovie.Controllers
 {
     public class HomeController : Controller
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> c937385... 1
     {
         public ActionResult Index()
         {
